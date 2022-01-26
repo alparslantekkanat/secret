@@ -1,0 +1,15 @@
+C:\WEB\WissenOdev\WissenOdev\bin\Debug\net6.0\WissenOdev.exe
+C:\WEB\WissenOdev\WissenOdev\bin\Debug\net6.0\WissenOdev.deps.json
+C:\WEB\WissenOdev\WissenOdev\bin\Debug\net6.0\WissenOdev.runtimeconfig.json
+C:\WEB\WissenOdev\WissenOdev\bin\Debug\net6.0\WissenOdev.dll
+C:\WEB\WissenOdev\WissenOdev\bin\Debug\net6.0\ref\WissenOdev.dll
+C:\WEB\WissenOdev\WissenOdev\bin\Debug\net6.0\WissenOdev.pdb
+C:\WEB\WissenOdev\WissenOdev\obj\Debug\net6.0\WissenOdev.csproj.AssemblyReference.cache
+C:\WEB\WissenOdev\WissenOdev\obj\Debug\net6.0\WissenOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB\WissenOdev\WissenOdev\obj\Debug\net6.0\WissenOdev.AssemblyInfoInputs.cache
+C:\WEB\WissenOdev\WissenOdev\obj\Debug\net6.0\WissenOdev.AssemblyInfo.cs
+C:\WEB\WissenOdev\WissenOdev\obj\Debug\net6.0\WissenOdev.csproj.CoreCompileInputs.cache
+C:\WEB\WissenOdev\WissenOdev\obj\Debug\net6.0\WissenOdev.dll
+C:\WEB\WissenOdev\WissenOdev\obj\Debug\net6.0\ref\WissenOdev.dll
+C:\WEB\WissenOdev\WissenOdev\obj\Debug\net6.0\WissenOdev.pdb
+C:\WEB\WissenOdev\WissenOdev\obj\Debug\net6.0\WissenOdev.genruntimeconfig.cache
